@@ -1,0 +1,66 @@
+{
+  "_from": "kinvey-nativescript-sdk",
+  "_id": "kinvey-nativescript-sdk@3.11.6",
+  "_inBundle": false,
+  "_integrity": "sha512-BRVItSIqIcC0PSrJdoDuUO3oFxUeJST+fTwwWtTiTcNkoLJVyhraIEHHvpudmJVTz9L31RS9WDxJyXfKz4Wixw==",
+  "_location": "/kinvey-nativescript-sdk",
+  "_phantomChildren": {
+    "symbol-observable": "1.0.1"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "kinvey-nativescript-sdk",
+    "name": "kinvey-nativescript-sdk",
+    "escapedName": "kinvey-nativescript-sdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/kinvey-nativescript-sdk/-/kinvey-nativescript-sdk-3.11.6.tgz",
+  "_shasum": "369284ac7b55fc84050b5c840adc23358a20721d",
+  "_spec": "kinvey-nativescript-sdk",
+  "_where": "/Users/mac/Desktop/Musiciens/musiciens",
+  "author": {
+    "name": "Kinvey, Inc."
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "nativescript-sqlite": "~1.1.11",
+    "rxjs": "~5.5.5"
+  },
+  "deprecated": false,
+  "description": "Kinvey NativeScript SDK for developing NativeScript applications.",
+  "files": [
+    "file-upload-worker-android.js",
+    "kinvey-nativescript-sdk.android.js",
+    "kinvey-nativescript-sdk.android.js.map",
+    "kinvey-nativescript-sdk.ios.js",
+    "kinvey-nativescript-sdk.ios.js.map",
+    "kinvey.d.ts",
+    "push.android.js",
+    "push.android.js.map",
+    "push.d.ts",
+    "push.ios.js",
+    "push.ios.js.map",
+    "platforms/android/include.gradle",
+    "platforms/ios/Podfile",
+    "platforms/ios/app.entitlements"
+  ],
+  "homepage": "http://www.kinvey.com",
+  "license": "Apache-2.0",
+  "main": "kinvey-nativescript-sdk.js",
+  "name": "kinvey-nativescript-sdk",
+  "nativescript": {
+    "platforms": {
+      "ios": "3.0.0",
+      "android": "3.0.0"
+    }
+  },
+  "typings": "kinvey.d.ts",
+  "version": "3.11.6"
+}

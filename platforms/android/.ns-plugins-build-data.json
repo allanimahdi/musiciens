@@ -1,0 +1,8 @@
+{
+	"kinvey-nativescript-sdk": {
+		"/Users/mac/Desktop/Musiciens/musiciens/node_modules/kinvey-nativescript-sdk/platforms/android/include.gradle": "0c9edbafc8399836bf4cc29f1f8e77f29418db10"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/mac/Desktop/Musiciens/musiciens/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "7a062e96fe7b542638c6a6570de1531521a7307b"
+	}
+}
